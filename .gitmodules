@@ -1,0 +1,18 @@
+[submodule "swift-libuv"]
+	path = swift-libuv
+	url = https://github.com/Trevi-Swift/swift-libuv.git
+[submodule "Trevi-sys"]
+	path = Trevi-sys
+	url = https://github.com/Trevi-Swift/Trevi-sys.git
+[submodule "Trevi"]
+	path = Trevi
+	url = https://github.com/Trevi-Swift/Trevi.git
+[submodule "Trevi-lime"]
+	path = Trevi-lime
+	url = https://github.com/Trevi-Swift/Trevi-lime.git
+[submodule "example-trevi-lime"]
+	path = example-trevi-lime
+	url = https://github.com/Trevi-Swift/example-trevi-lime.git
+[submodule "Trevi-middleware"]
+	path = Trevi-middleware
+	url = https://github.com/Trevi-Swift/Trevi-middleware.git

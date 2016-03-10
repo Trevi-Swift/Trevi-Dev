@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:example-trevi-lime/LimeExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Trevi-lime/Lime.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Trevi/Trevi.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Trevi-sys/TreviSys.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Trevi-middleware/Middleware.xcodeproj">
+   </FileRef>
+</Workspace>
