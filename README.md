@@ -8,8 +8,8 @@
 An xcode workspace for OSX developers. The worksapce contains projects related with project Trevi.  
 See more at [Trevi Community's GitHub repo](https://github.com/Trevi-Swift).
 
-## Versioning
-Trevi-Develop follows the semantic versioning scheme. The API change and backwards compatibility rules are those indicated by SemVer.
+## Swift version
+Trevi works with the latest version of Swift 2.2 Snapshot. You can download Swift binaries on [here](https://swift.org/download/#latest-development-snapshots).
 
 ## Usage
 1. Clone repository.
@@ -54,6 +54,9 @@ Trevi-Develop follows the semantic versioning scheme. The API change and backwar
         ```bash
         $ make -C ./swift-libuv
         ```
+
+## Versioning
+Trevi-Develop follows the semantic versioning scheme. The API change and backwards compatibility rules are those indicated by SemVer.
 
 ## License
 This library is licensed under Apache 2.0. Full license text is available in [LICENSE](LICENSE.txt).
