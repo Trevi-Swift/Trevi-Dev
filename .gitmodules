@@ -18,4 +18,4 @@
 	url = https://github.com/Trevi-Swift/Trevi-middleware.git
 [submodule "Alamofire"]
 	path = Alamofire
-	url = https://github.com/Alamofire/Alamofire.git
+	url = https://github.com/Trevi-Swift/Alamofire.git
